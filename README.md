@@ -50,11 +50,7 @@ Then visit `http://localhost:8000`.
 - `index.html` — Homepage and cultural overview
 - `culture.html` — Art, music, dance, languages, and daily life
 - `heritage.html` — Monuments, history, architecture, and legacy
-- `cuisine.html` — Regional food, sweets, and culinary traditions
+- `cuisine.html` — Regional food, sweets, and culinary tradition
 - `traditions.html` — Festivals, rituals, and celebrations
 - `about.html` — Project purpose and cultural context
 - `contact.html` — Static contact page for inquiries or feedback
-
-## License
-
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
